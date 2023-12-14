@@ -138,7 +138,7 @@ public class ActionFragment extends Fragment {
     }
 }
 ```
-- `HororFragment.java` :
+- `ComedyFragment.java` :
 ```
 package com.example.fragmentmovie;
 
