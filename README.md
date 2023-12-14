@@ -138,7 +138,7 @@ public class ActionFragment extends Fragment {
     }
 }
 ```
--`ComedyFragment.java`:
+- `HororFragment.java` :
 ```
 package com.example.fragmentmovie;
 
@@ -179,7 +179,7 @@ public class ComedyFragment extends Fragment {
     }
 }
 ```
-- `HororFragment.java` :
+- `HororFragment.java` 
 ```
 package com.example.fragmentmovie;
 import android.os.Bundle;
