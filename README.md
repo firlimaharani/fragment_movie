@@ -459,6 +459,10 @@ public class ViewAdapter extends FragmentStateAdapter {
 
 > Hasil Run :
 
+https://github.com/firlimaharani/fragment_movie/assets/130529482/db302c44-6cd9-4c6c-aa35-9acf944ed4e7
+
+
+
 
 
 ## Selesai, Terima Kasih 
